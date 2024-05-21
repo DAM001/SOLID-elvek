@@ -1,0 +1,15 @@
+C:\Github\NO-SOLID-principles\SOLID-principles\bin\Debug\net8.0\SOLID-principles.exe
+C:\Github\NO-SOLID-principles\SOLID-principles\bin\Debug\net8.0\SOLID-principles.deps.json
+C:\Github\NO-SOLID-principles\SOLID-principles\bin\Debug\net8.0\SOLID-principles.runtimeconfig.json
+C:\Github\NO-SOLID-principles\SOLID-principles\bin\Debug\net8.0\SOLID-principles.dll
+C:\Github\NO-SOLID-principles\SOLID-principles\bin\Debug\net8.0\SOLID-principles.pdb
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.AssemblyInfoInputs.cache
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.AssemblyInfo.cs
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.csproj.CoreCompileInputs.cache
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.sourcelink.json
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.dll
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\refint\SOLID-principles.dll
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.pdb
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\SOLID-principles.genruntimeconfig.cache
+C:\Github\NO-SOLID-principles\SOLID-principles\obj\Debug\net8.0\ref\SOLID-principles.dll
